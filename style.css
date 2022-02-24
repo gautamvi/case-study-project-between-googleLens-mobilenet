@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background: plum;
+}
+
+.copy_right_footer{
+    position: fixed;
+    background: rgb(253, 0, 253);
+    color: white;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+  }
+
+  div{
+      background: purple;
+  }
+
+  h4{
+      color:white;
+  }
